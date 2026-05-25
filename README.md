@@ -61,8 +61,7 @@ WHERE status = 'Delivered';
 ---
 
 ## Screenshot
-
-![SQL Project Screenshot](1000194030.png)
+https://drive.google.com/file/d/12LZlA03v62ea67FV0wep6U7bgoykyzqn/view?usp=drivesdk
 
 ---
 
