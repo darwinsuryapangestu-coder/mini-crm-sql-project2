@@ -60,11 +60,7 @@ WHERE status = 'Delivered';
 
 ---
 
-## Screenshot
-https://drive.google.com/file/d/12LZlA03v62ea67FV0wep6U7bgoykyzqn/view?usp=drivesdk
-
----
-
+## Screenshot at attachment
 ## Future Improvements
 - Add JOIN queries
 - Create sales pipeline system
